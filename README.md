@@ -1,8 +1,10 @@
-# Everyday One Motion - 20160204 "How Raymarcher Works"
+# Everyday One Motion - 20160204  
 
-![](20160204.gif)
+"How Raymarcher Works"  
 
-Processing
+![](20160204.gif)  
+
+Processing  
 
 [Everyday One Motion](http://motions.work/motion/88)  
 
